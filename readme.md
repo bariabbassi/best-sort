@@ -1,5 +1,5 @@
 # Best Sort
-Comparing :bar_chart: several sorting algorithms
+Comparing several :twisted_rightwards_arrows: Sorting Algorithms
 
 ## Sorting algorithms used
 - Bubble sort
