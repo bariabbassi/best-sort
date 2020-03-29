@@ -1,5 +1,5 @@
 # Best Sort
-Comparing :bar_graph: several sorting algorithms
+Comparing :bar_chart: several sorting algorithms
 
 ## Sorting algorithms used
 - Bubble sort
@@ -13,5 +13,5 @@ Comparing :bar_graph: several sorting algorithms
 - Count sort
 
 ## Results found
-It depends. There is no clear winner. Read the [report](https://github.com/bariabbassi/best-sort/best_sort_report.pdf).
+It depends. There is no clear winner. Read the [report](https://github.com/bariabbassi/best-sort/blob/master/best_sort_report.pdf).
 
