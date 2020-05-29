@@ -1,5 +1,5 @@
-# Best Sort
-Comparing several :twisted_rightwards_arrows: Sorting Algorithms
+# :twisted_rightwards_arrows: Best Sort
+Comparing several Sorting Algorithms
 
 ## Sorting algorithms used
 - Bubble sort
